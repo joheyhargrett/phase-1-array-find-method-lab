@@ -18,4 +18,22 @@ function superbowlWin(record) {
 };
 
 
+//Another way I could have completed this function using for of loop with arrow function
+
+// const superbowlWin = (record) => {
+//   for (let game of record) {
+//     if (game.result === "W") {
+//       return game.year;
+//   }
+//   return undefined;
+// }
+
+
+
+
+
+
+
+
+
 
